@@ -1,2 +1,4 @@
 message:
   greeting: Hello world
+secret:
+  key: Hola mundo
